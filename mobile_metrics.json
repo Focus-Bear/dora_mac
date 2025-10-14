@@ -12427,9 +12427,9 @@
             "issue_id": "Focus-Bear/mobile-app#3364",
             "repo": "Focus-Bear/mobile-app",
             "title": "Apple Sign-In generates private relay email \u2192 causes sync/account mismatch across devices",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-14T12:04:29.169394+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1515",
@@ -12470,6 +12470,30 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
             "updated_at": "2025-10-13T00:41:35.062288+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1523",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Report problem with screenshots needs to allow selecting files",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-14T12:04:29.169394+00:00",
+            "updated_at": "2025-10-14T12:04:29.169394+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1524",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Integrate with local LLM",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-14T12:04:29.169394+00:00",
+            "updated_at": "2025-10-14T12:04:29.169394+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1525",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Missing posthog events?",
+            "status": "This month",
+            "created_at": "2025-10-14T12:04:29.169394+00:00",
+            "updated_at": "2025-10-14T12:04:29.169394+00:00"
         }
     ]
 }

@@ -12494,6 +12494,54 @@
             "status": "This month",
             "created_at": "2025-10-14T12:04:29.169394+00:00",
             "updated_at": "2025-10-14T12:04:29.169394+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1526",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "White screen after clicking start custom routine",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1527",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Offline sync not working",
+            "status": "This month",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1528",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Website blocking not working, all permissions are enabled",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1529",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Focus music incorrectly triggers meeting mode",
+            "status": "This quarter",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1530",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Pop up keeps appearing and will not go away - \u2018Need a break\u2019",
+            "status": "This month",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1531",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App blocks access to tools even when it\u2019s not break time",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-15T12:04:37.375128+00:00",
+            "updated_at": "2025-10-15T12:04:37.375128+00:00"
         }
     ]
 }

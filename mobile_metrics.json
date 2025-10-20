@@ -12475,17 +12475,17 @@
             "issue_id": "Focus-Bear/Mac-App#1523",
             "repo": "Focus-Bear/Mac-App",
             "title": "Report problem with screenshots needs to allow selecting files",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-14T12:04:29.169394+00:00",
-            "updated_at": "2025-10-14T12:04:29.169394+00:00"
+            "updated_at": "2025-10-20T12:04:12.077125+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1524",
             "repo": "Focus-Bear/Mac-App",
             "title": "Integrate with local LLM",
-            "status": "Extra high priority - Next version",
+            "status": "This month",
             "created_at": "2025-10-14T12:04:29.169394+00:00",
-            "updated_at": "2025-10-14T12:04:29.169394+00:00"
+            "updated_at": "2025-10-20T12:04:12.077125+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1525",
@@ -12574,6 +12574,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
             "updated_at": "2025-10-18T12:03:51.712594+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1535",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Task status doesn't get updated to completed when I tick the box",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-20T12:04:12.077125+00:00",
+            "updated_at": "2025-10-20T12:04:12.077125+00:00"
         }
     ]
 }

@@ -12582,6 +12582,30 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-10-20T12:04:12.077125+00:00",
             "updated_at": "2025-10-20T12:04:12.077125+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1536",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Test new events endpoint",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-21T12:04:42.848572+00:00",
+            "updated_at": "2025-10-21T12:04:42.848572+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1537",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "After postponing habits and setting intention, it goes to todo player instead of start focus session",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-21T12:04:42.848572+00:00",
+            "updated_at": "2025-10-21T12:04:42.848572+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1538",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Layout misalignment on Habit page",
+            "status": "This month",
+            "created_at": "2025-10-21T12:04:42.848572+00:00",
+            "updated_at": "2025-10-21T12:04:42.848572+00:00"
         }
     ]
 }

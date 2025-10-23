@@ -267,9 +267,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2426",
             "repo": "Focus-Bear/web_dashboard",
             "title": "YouTube videos in Microbreaks crash with error 153",
-            "status": "Extra high priority - Next version",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1483",
@@ -971,9 +971,9 @@
             "issue_id": "Focus-Bear/Mac-App#1377",
             "repo": "Focus-Bear/Mac-App",
             "title": "Document build & release process for Mac + share all secrets with Jeremy",
-            "status": "Extra high priority - Next version",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1368",
@@ -11851,9 +11851,9 @@
             "issue_id": "Focus-Bear/Mac-App#1371",
             "repo": "Focus-Bear/Mac-App",
             "title": "Are we actually trying to refresh the token?",
-            "status": "Extra high priority - Next version",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1372",
@@ -12171,9 +12171,9 @@
             "issue_id": "Focus-Bear/Mac-App#1470",
             "repo": "Focus-Bear/Mac-App",
             "title": "Website blocking not working despite permissions appearing enabled",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#743",
@@ -12355,9 +12355,9 @@
             "issue_id": "Focus-Bear/Mac-App#1503",
             "repo": "Focus-Bear/Mac-App",
             "title": "App Freeze - intern report",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2487",
@@ -12435,17 +12435,17 @@
             "issue_id": "Focus-Bear/Mac-App#1515",
             "repo": "Focus-Bear/Mac-App",
             "title": "Todo player current task not updating",
-            "status": "Extra high priority - Next version",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1517",
             "repo": "Focus-Bear/Mac-App",
             "title": "youtube video failed to play",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1520",
@@ -12467,9 +12467,9 @@
             "issue_id": "Focus-Bear/Mac-App#1522",
             "repo": "Focus-Bear/Mac-App",
             "title": "blocked without warning",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1523",
@@ -12539,9 +12539,9 @@
             "issue_id": "Focus-Bear/Mac-App#1531",
             "repo": "Focus-Bear/Mac-App",
             "title": "App blocks access to tools even when it\u2019s not break time",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1519",
@@ -12614,6 +12614,22 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-10-22T12:04:28.570697+00:00",
             "updated_at": "2025-10-22T12:04:28.570697+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1540",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Mac app not sending justification for apps to endpoint?",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-23T12:04:28.732739+00:00",
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1541",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocking schedule uses allow list + AI instead of blocking",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-10-23T12:04:28.732739+00:00",
+            "updated_at": "2025-10-23T12:04:28.732739+00:00"
         }
     ]
 }

@@ -12499,9 +12499,9 @@
             "issue_id": "Focus-Bear/Mac-App#1526",
             "repo": "Focus-Bear/Mac-App",
             "title": "White screen after clicking start custom routine",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1527",
@@ -12555,33 +12555,33 @@
             "issue_id": "Focus-Bear/Mac-App#1532",
             "repo": "Focus-Bear/Mac-App",
             "title": "Issue with AI blocking",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-17T12:04:14.990599+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1533",
             "repo": "Focus-Bear/Mac-App",
             "title": "Current task not being passed to AI",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-17T12:04:14.990599+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1534",
             "repo": "Focus-Bear/Mac-App",
             "title": "Current task unspecified after adding via the pop up",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-18T12:03:51.712594+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1535",
             "repo": "Focus-Bear/Mac-App",
             "title": "Task status doesn't get updated to completed when I tick the box",
-            "status": "Extra high priority - Next version",
+            "status": "In Progress",
             "created_at": "2025-10-20T12:04:12.077125+00:00",
-            "updated_at": "2025-10-20T12:04:12.077125+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1536",
@@ -12595,9 +12595,9 @@
             "issue_id": "Focus-Bear/Mac-App#1537",
             "repo": "Focus-Bear/Mac-App",
             "title": "After postponing habits and setting intention, it goes to todo player instead of start focus session",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-21T12:04:42.848572+00:00",
-            "updated_at": "2025-10-21T12:04:42.848572+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1538",
@@ -12627,25 +12627,25 @@
             "issue_id": "Focus-Bear/Mac-App#1541",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule uses allow list + AI instead of blocking",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-23T12:04:28.732739+00:00",
-            "updated_at": "2025-10-23T12:04:28.732739+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1542",
             "repo": "Focus-Bear/Mac-App",
             "title": "Does Mac app check for updated task status at the start of focus sessions?",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-26T12:04:02.214498+00:00",
-            "updated_at": "2025-10-26T12:04:02.214498+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1543",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule shows xxsocialmedia",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-27T12:04:19.292251+00:00",
-            "updated_at": "2025-10-27T12:04:19.292251+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1544",
@@ -12667,9 +12667,9 @@
             "issue_id": "Focus-Bear/Mac-App#1546",
             "repo": "Focus-Bear/Mac-App",
             "title": "App is prompting for every website",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-28T12:04:24.811339+00:00",
-            "updated_at": "2025-10-28T12:04:24.811339+00:00"
+            "updated_at": "2025-10-30T12:04:30.900779+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#860",

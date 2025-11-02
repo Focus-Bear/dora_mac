@@ -211,9 +211,9 @@
             "issue_id": "Focus-Bear/Mac-App#1497",
             "repo": "Focus-Bear/Mac-App",
             "title": "Bad experience with AI blocking in simple mode if no task active",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-02T12:03:49.205495+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1482",
@@ -259,9 +259,9 @@
             "issue_id": "Focus-Bear/Mac-App#1487",
             "repo": "Focus-Bear/Mac-App",
             "title": "[Morning Routine] Routine does not trigger when set to 23:25",
-            "status": "Needs clarification",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-02T12:03:49.205495+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2426",

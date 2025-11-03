@@ -12547,9 +12547,9 @@
             "issue_id": "Focus-Bear/Mac-App#1519",
             "repo": "Focus-Bear/Mac-App",
             "title": "Wind-down triggered at incorrect time (4 PM instead of 11:30 PM)",
-            "status": "This month",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-17T12:04:14.990599+00:00"
+            "updated_at": "2025-11-03T12:04:19.765163+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1532",
@@ -12694,6 +12694,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-10-31T12:04:25.368186+00:00",
             "updated_at": "2025-10-31T12:04:25.368186+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1549",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocking schedule not activated",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-11-03T12:04:19.765163+00:00",
+            "updated_at": "2025-11-03T12:04:19.765163+00:00"
         }
     ]
 }

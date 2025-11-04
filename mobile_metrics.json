@@ -12547,17 +12547,17 @@
             "issue_id": "Focus-Bear/Mac-App#1519",
             "repo": "Focus-Bear/Mac-App",
             "title": "Wind-down triggered at incorrect time (4 PM instead of 11:30 PM)",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-11-03T12:04:19.765163+00:00"
+            "updated_at": "2025-11-04T12:04:27.727851+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1532",
             "repo": "Focus-Bear/Mac-App",
             "title": "Issue with AI blocking",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-31T12:04:25.368186+00:00"
+            "updated_at": "2025-11-04T12:04:27.727851+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1533",
@@ -12595,9 +12595,9 @@
             "issue_id": "Focus-Bear/Mac-App#1537",
             "repo": "Focus-Bear/Mac-App",
             "title": "After postponing habits and setting intention, it goes to todo player instead of start focus session",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-21T12:04:42.848572+00:00",
-            "updated_at": "2025-10-31T12:04:25.368186+00:00"
+            "updated_at": "2025-11-04T12:04:27.727851+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1538",
@@ -12691,17 +12691,17 @@
             "issue_id": "Focus-Bear/Mac-App#1548",
             "repo": "Focus-Bear/Mac-App",
             "title": "Focus Bear isn\u2019t asking me to take breaks",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-31T12:04:25.368186+00:00",
-            "updated_at": "2025-10-31T12:04:25.368186+00:00"
+            "updated_at": "2025-11-04T12:04:27.727851+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1549",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule not activated",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-03T12:04:19.765163+00:00",
-            "updated_at": "2025-11-03T12:04:19.765163+00:00"
+            "updated_at": "2025-11-04T12:04:27.727851+00:00"
         }
     ]
 }

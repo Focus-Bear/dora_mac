@@ -155,9 +155,9 @@
             "issue_id": "Focus-Bear/Mac-App#1508",
             "repo": "Focus-Bear/Mac-App",
             "title": "Habit prompts for already completed habits and habit loading failures on Mac",
-            "status": "Extra high priority - Next version",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-08T12:03:56.755876+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#838",
@@ -12707,9 +12707,9 @@
             "issue_id": "Focus-Bear/Mac-App#1550",
             "repo": "Focus-Bear/Mac-App",
             "title": "Enhancements for blocking schedule",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-06T12:04:21.916578+00:00",
-            "updated_at": "2025-11-06T12:04:21.916578+00:00"
+            "updated_at": "2025-11-08T12:03:56.755876+00:00"
         }
     ]
 }

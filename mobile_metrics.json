@@ -9955,17 +9955,17 @@
             "issue_id": "Focus-Bear/Mac-App#785",
             "repo": "Focus-Bear/Mac-App",
             "title": "Handle 500 errors from backend - offline sync",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#691",
             "repo": "Focus-Bear/Mac-App",
             "title": "Keyboard accessibility on break intention screen",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#683",
@@ -10835,25 +10835,25 @@
             "issue_id": "Focus-Bear/Mac-App#974",
             "repo": "Focus-Bear/Mac-App",
             "title": "Breaks don't show if you do short focus sessions back to back?",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#178",
             "repo": "Focus-Bear/Mac-App",
             "title": "Allow setting different shutdown times for each day",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#988",
             "repo": "Focus-Bear/Mac-App",
             "title": "Show tour for the drag to add task feature",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#977",
@@ -10875,9 +10875,9 @@
             "issue_id": "Focus-Bear/Mac-App#978",
             "repo": "Focus-Bear/Mac-App",
             "title": "Exit full screen button non functional when postpone dialogue not fully completed",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1016",
@@ -11083,9 +11083,9 @@
             "issue_id": "Focus-Bear/Mac-App#998",
             "repo": "Focus-Bear/Mac-App",
             "title": "Minor UI Bug - Meeting Overlay",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1003",
@@ -11107,9 +11107,9 @@
             "issue_id": "Focus-Bear/Mac-App#1005",
             "repo": "Focus-Bear/Mac-App",
             "title": "[post fundraise] If activity has a log quantity/log notes at end and another process interrupts before adding the qty/note, progress is lost",
-            "status": "Post fundraise high prio",
+            "status": "Long term",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1019",
@@ -11851,9 +11851,9 @@
             "issue_id": "Focus-Bear/Mac-App#1371",
             "repo": "Focus-Bear/Mac-App",
             "title": "Are we actually trying to refresh the token?",
-            "status": "This month",
+            "status": "Next quarter",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-23T12:04:28.732739+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1372",
@@ -12363,9 +12363,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2487",
             "repo": "Focus-Bear/web_dashboard",
             "title": "[UI/UX] \u201cBack to my habits\u201d button misaligned on error page",
-            "status": "This month",
+            "status": "Medium Priority",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1504",
@@ -12379,9 +12379,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2352",
             "repo": "Focus-Bear/web_dashboard",
             "title": "\u201cTo Do Player\u201d screen occasionally loads as a blank page",
-            "status": "This month",
+            "status": "This quarter",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1489",
@@ -12483,9 +12483,9 @@
             "issue_id": "Focus-Bear/Mac-App#1524",
             "repo": "Focus-Bear/Mac-App",
             "title": "Integrate with local LLM",
-            "status": "This month",
+            "status": "This quarter",
             "created_at": "2025-10-14T12:04:29.169394+00:00",
-            "updated_at": "2025-10-20T12:04:12.077125+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1525",
@@ -12531,9 +12531,9 @@
             "issue_id": "Focus-Bear/Mac-App#1530",
             "repo": "Focus-Bear/Mac-App",
             "title": "Pop up keeps appearing and will not go away - \u2018Need a break\u2019",
-            "status": "This month",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+            "updated_at": "2025-11-09T12:03:44.519797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1531",

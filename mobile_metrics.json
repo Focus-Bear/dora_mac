@@ -12531,9 +12531,9 @@
             "issue_id": "Focus-Bear/Mac-App#1530",
             "repo": "Focus-Bear/Mac-App",
             "title": "Pop up keeps appearing and will not go away - \u2018Need a break\u2019",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-11-09T12:03:44.519797+00:00"
+            "updated_at": "2025-11-13T12:04:17.723866+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1531",
@@ -12715,17 +12715,17 @@
             "issue_id": "Focus-Bear/Mac-App#1551",
             "repo": "Focus-Bear/Mac-App",
             "title": "Can't start custom routine when postponed anymore",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-11-10T12:04:19.546244+00:00",
-            "updated_at": "2025-11-10T12:04:19.546244+00:00"
+            "updated_at": "2025-11-13T12:04:17.723866+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1552",
             "repo": "Focus-Bear/Mac-App",
             "title": "URL needs to be truncated in AI blocking popup",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-10T12:04:19.546244+00:00",
-            "updated_at": "2025-11-10T12:04:19.546244+00:00"
+            "updated_at": "2025-11-13T12:04:17.723866+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1466",

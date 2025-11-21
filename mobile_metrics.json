@@ -12763,17 +12763,17 @@
             "issue_id": "Focus-Bear/Mac-App#1555",
             "repo": "Focus-Bear/Mac-App",
             "title": "Don't show the floating bear if user opens the menu",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-17T12:04:17.631118+00:00",
-            "updated_at": "2025-11-17T12:04:17.631118+00:00"
+            "updated_at": "2025-11-21T12:04:00.053547+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1556",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break confirmation pop-up stuck in infinite loop; force reboot required to exit",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-20T12:04:33.523717+00:00",
-            "updated_at": "2025-11-20T12:04:33.523717+00:00"
+            "updated_at": "2025-11-21T12:04:00.053547+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1557",

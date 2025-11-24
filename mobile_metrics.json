@@ -8139,9 +8139,9 @@
             "issue_id": "Focus-Bear/Mac-App#1092",
             "repo": "Focus-Bear/Mac-App",
             "title": "AI blocking popup impossible to use with long URLs",
-            "status": "Ready for QA",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-11-24T12:04:09.753192+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1090",
@@ -12798,6 +12798,30 @@
             "status": "This quarter",
             "created_at": "2025-11-23T12:03:35.254791+00:00",
             "updated_at": "2025-11-23T12:03:35.254791+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1561",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocking not working on Firefox - permissions enabled",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-11-24T12:04:09.753192+00:00",
+            "updated_at": "2025-11-24T12:04:09.753192+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1562",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Stop focus session window should show how long the session has been going",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-11-24T12:04:09.753192+00:00",
+            "updated_at": "2025-11-24T12:04:09.753192+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1563",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Start focus mode on mobile doesn't update on Mac",
+            "status": "This month",
+            "created_at": "2025-11-24T12:04:09.753192+00:00",
+            "updated_at": "2025-11-24T12:04:09.753192+00:00"
         }
     ]
 }

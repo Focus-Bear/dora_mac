@@ -1195,9 +1195,9 @@
             "issue_id": "Focus-Bear/Mac-App#1255",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac app is not sending the app_version to the track_event endpoint",
-            "status": "This quarter",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1287",
@@ -7843,9 +7843,9 @@
             "issue_id": "Focus-Bear/Mac-App#1271",
             "repo": "Focus-Bear/Mac-App",
             "title": "Request further details if they say the app isn't what they were looking for",
-            "status": "Next quarter",
+            "status": "Medium Priority",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1047",
@@ -11907,9 +11907,9 @@
             "issue_id": "Focus-Bear/Mac-App#1296",
             "repo": "Focus-Bear/Mac-App",
             "title": "Make \"Sign up with google\" more prominent",
-            "status": "This month",
+            "status": "This quarter",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1389",
@@ -12163,9 +12163,9 @@
             "issue_id": "Focus-Bear/Mac-App#1413",
             "repo": "Focus-Bear/Mac-App",
             "title": "Show minutes since the last break in the break about to start popup",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1470",
@@ -12227,9 +12227,9 @@
             "issue_id": "Focus-Bear/backend#1255",
             "repo": "Focus-Bear/backend",
             "title": "Getting 400 error in the mac app when finishing a focus mode",
-            "status": "This month",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1481",
@@ -12395,9 +12395,9 @@
             "issue_id": "Focus-Bear/Mac-App#1214",
             "repo": "Focus-Bear/Mac-App",
             "title": "To Do player shows the wrong time ",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2257",
@@ -12515,9 +12515,9 @@
             "issue_id": "Focus-Bear/Mac-App#1528",
             "repo": "Focus-Bear/Mac-App",
             "title": "Website blocking not working, all permissions are enabled",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1529",
@@ -12571,17 +12571,17 @@
             "issue_id": "Focus-Bear/Mac-App#1534",
             "repo": "Focus-Bear/Mac-App",
             "title": "Current task unspecified after adding via the pop up",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-31T12:04:25.368186+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1535",
             "repo": "Focus-Bear/Mac-App",
             "title": "Task status doesn't get updated to completed when I tick the box",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-20T12:04:12.077125+00:00",
-            "updated_at": "2025-10-30T12:04:30.900779+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1536",
@@ -12611,9 +12611,9 @@
             "issue_id": "Focus-Bear/Mac-App#1539",
             "repo": "Focus-Bear/Mac-App",
             "title": "Support Atlas browser",
-            "status": "Extra high priority - Next version",
+            "status": "This month",
             "created_at": "2025-10-22T12:04:28.570697+00:00",
-            "updated_at": "2025-10-22T12:04:28.570697+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1540",
@@ -12795,17 +12795,17 @@
             "issue_id": "Focus-Bear/Mac-App#1560",
             "repo": "Focus-Bear/Mac-App",
             "title": "Evening routine does not start at scheduled time on Mac app",
-            "status": "This quarter",
+            "status": "This month",
             "created_at": "2025-11-23T12:03:35.254791+00:00",
-            "updated_at": "2025-11-23T12:03:35.254791+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1561",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking not working on Firefox - permissions enabled",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-11-24T12:04:09.753192+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1562",
@@ -12843,9 +12843,9 @@
             "issue_id": "Focus-Bear/Mac-App#1558",
             "repo": "Focus-Bear/Mac-App",
             "title": "Focus Bear hung",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-11-29T12:03:58.352645+00:00",
-            "updated_at": "2025-11-29T12:03:58.352645+00:00"
+            "updated_at": "2025-12-01T12:04:16.562797+00:00"
         }
     ]
 }

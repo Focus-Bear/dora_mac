@@ -1195,9 +1195,9 @@
             "issue_id": "Focus-Bear/Mac-App#1255",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac app is not sending the app_version to the track_event endpoint",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-12-01T12:04:16.562797+00:00"
+            "updated_at": "2025-12-02T12:04:10.209246+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1287",
@@ -11787,9 +11787,9 @@
             "issue_id": "Focus-Bear/Mac-App#1330",
             "repo": "Focus-Bear/Mac-App",
             "title": "unable to unlock URLs + free tier UI looks bad",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-02T12:04:10.209246+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1335",
@@ -12507,9 +12507,9 @@
             "issue_id": "Focus-Bear/Mac-App#1527",
             "repo": "Focus-Bear/Mac-App",
             "title": "Offline sync not working",
-            "status": "This month",
+            "status": "In Progress",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-10-15T12:04:37.375128+00:00"
+            "updated_at": "2025-12-02T12:04:10.209246+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1528",
@@ -12846,6 +12846,22 @@
             "status": "Ready for QA",
             "created_at": "2025-11-29T12:03:58.352645+00:00",
             "updated_at": "2025-12-01T12:04:16.562797+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1566",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App locked up when opening firefox",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-02T12:04:10.209246+00:00",
+            "updated_at": "2025-12-02T12:04:10.209246+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#891",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Allow extending/stopping the break from the popup",
+            "status": "This quarter",
+            "created_at": "2025-12-02T12:04:10.209246+00:00",
+            "updated_at": "2025-12-02T12:04:10.209246+00:00"
         }
     ]
 }

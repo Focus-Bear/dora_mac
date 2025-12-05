@@ -12875,9 +12875,57 @@
             "issue_id": "Focus-Bear/Mac-App#1569",
             "repo": "Focus-Bear/Mac-App",
             "title": "Cannot extend habit postponement duration beyond 5 minutes",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-12-04T12:04:22.021796+00:00",
-            "updated_at": "2025-12-04T12:04:22.021796+00:00"
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1572",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Super Focus session stops blocking after closing the break popup; session remains active but blocking and timer disappear",
+            "status": "Ready for QA",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1574",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Floating bear shouldn't show when you close the bigger bear with focus alignment score",
+            "status": "Ready for QA",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1568",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "New task not being added correctly from AI popup",
+            "status": "This month",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1571",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Feature request:  Automatically start and run Pomodoro cycles (Super Focus loop) when scheduled blocking starts",
+            "status": "This month",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1573",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Tasks dropdown isn't helpful - should show recent tasks",
+            "status": "This month",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1575",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App crashed",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-05T12:04:05.350689+00:00",
+            "updated_at": "2025-12-05T12:04:05.350689+00:00"
         }
     ]
 }

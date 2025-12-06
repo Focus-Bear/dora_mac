@@ -1179,9 +1179,9 @@
             "issue_id": "Focus-Bear/Mac-App#1107",
             "repo": "Focus-Bear/Mac-App",
             "title": "Brain dump is not flowing through to the to do player",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-06T12:03:48.888506+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1334",
@@ -10867,9 +10867,9 @@
             "issue_id": "Focus-Bear/web_dashboard#991",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Unable to Start First Routine in Mac app v.1.6.268",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2025-12-06T12:03:48.888506+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#978",
@@ -12923,9 +12923,25 @@
             "issue_id": "Focus-Bear/Mac-App#1575",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed",
-            "status": "Extra high priority - Next version",
+            "status": "In Progress",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+            "updated_at": "2025-12-06T12:03:48.888506+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1570",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Super Focus block shows \u201cno current task\u201d and blocking does not activate even when a task is set",
+            "status": "Needs clarification",
+            "created_at": "2025-12-06T12:03:48.888506+00:00",
+            "updated_at": "2025-12-06T12:03:48.888506+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1576",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Let user enter a task quickly if none is set",
+            "status": "This month",
+            "created_at": "2025-12-06T12:03:48.888506+00:00",
+            "updated_at": "2025-12-06T12:03:48.888506+00:00"
         }
     ]
 }

@@ -12875,9 +12875,9 @@
             "issue_id": "Focus-Bear/Mac-App#1569",
             "repo": "Focus-Bear/Mac-App",
             "title": "Cannot extend habit postponement duration beyond 5 minutes",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-04T12:04:22.021796+00:00",
-            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+            "updated_at": "2025-12-07T12:03:48.621080+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1572",
@@ -12942,6 +12942,14 @@
             "status": "This month",
             "created_at": "2025-12-06T12:03:48.888506+00:00",
             "updated_at": "2025-12-06T12:03:48.888506+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1577",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "In super strict mode prevent changing the focus intention",
+            "status": "This quarter",
+            "created_at": "2025-12-07T12:03:48.621080+00:00",
+            "updated_at": "2025-12-07T12:03:48.621080+00:00"
         }
     ]
 }

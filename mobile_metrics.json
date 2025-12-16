@@ -12990,6 +12990,54 @@
             "status": "This month",
             "created_at": "2025-12-15T12:04:29.049428+00:00",
             "updated_at": "2025-12-15T12:04:29.049428+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1583",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "\u201cLooks like you\u2019re on a break\u201d popup keeps appearing even when not on break; dismiss option does not persist",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1584",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "AI blocking works inconsistently across daily blocks and focus blocks",
+            "status": "This month",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1585",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Bear pop up is intrusive and difficult to dismiss, causing frustration during use",
+            "status": "This month",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1586",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App not passing task to the AI",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1587",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocks shouldn't be removed if login fails if the user has password + full screen enabled",
+            "status": "This month",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1588",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Apps not being blocked in a focus mode with only allowed apps?",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-16T12:04:16.927805+00:00",
+            "updated_at": "2025-12-16T12:04:16.927805+00:00"
         }
     ]
 }

@@ -12939,9 +12939,9 @@
             "issue_id": "Focus-Bear/Mac-App#1576",
             "repo": "Focus-Bear/Mac-App",
             "title": "Let user enter a task quickly if none is set",
-            "status": "Needs clarification",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-12-06T12:03:48.888506+00:00",
-            "updated_at": "2025-12-24T12:04:09.419738+00:00"
+            "updated_at": "2025-12-28T12:04:09.059364+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1577",
@@ -13059,9 +13059,9 @@
             "issue_id": "Focus-Bear/Mac-App#1591",
             "repo": "Focus-Bear/Mac-App",
             "title": "Natural breaks are not being counted accurately",
-            "status": "Needs clarification",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-12-22T12:04:09.303467+00:00",
-            "updated_at": "2025-12-24T12:04:09.419738+00:00"
+            "updated_at": "2025-12-28T12:04:09.059364+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1592",
@@ -13094,6 +13094,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2025-12-26T12:04:08.451922+00:00",
             "updated_at": "2025-12-26T12:04:08.451922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/backend#1556",
+            "repo": "Focus-Bear/backend",
+            "title": "Set up dependabot in backend repo",
+            "status": "Extra high priority - Next version",
+            "created_at": "2025-12-28T12:04:09.059364+00:00",
+            "updated_at": "2025-12-28T12:04:09.059364+00:00"
         }
     ]
 }

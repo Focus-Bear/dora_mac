@@ -12939,9 +12939,9 @@
             "issue_id": "Focus-Bear/Mac-App#1576",
             "repo": "Focus-Bear/Mac-App",
             "title": "Let user enter a task quickly if none is set",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-06T12:03:48.888506+00:00",
-            "updated_at": "2025-12-28T12:04:09.059364+00:00"
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1577",
@@ -13011,9 +13011,9 @@
             "issue_id": "Focus-Bear/Mac-App#1585",
             "repo": "Focus-Bear/Mac-App",
             "title": "Bear pop up is intrusive and difficult to dismiss, causing frustration during use",
-            "status": "This month",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1586",
@@ -13035,9 +13035,9 @@
             "issue_id": "Focus-Bear/Mac-App#1588",
             "repo": "Focus-Bear/Mac-App",
             "title": "Apps not being blocked in a focus mode with only allowed apps?",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-16T12:04:16.927805+00:00"
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1589",
@@ -13059,9 +13059,9 @@
             "issue_id": "Focus-Bear/Mac-App#1591",
             "repo": "Focus-Bear/Mac-App",
             "title": "Natural breaks are not being counted accurately",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-22T12:04:09.303467+00:00",
-            "updated_at": "2025-12-28T12:04:09.059364+00:00"
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1592",
@@ -13075,9 +13075,9 @@
             "issue_id": "Focus-Bear/Mac-App#1593",
             "repo": "Focus-Bear/Mac-App",
             "title": "Clicking X on the blocking pop up should not block and should go back to the previous screen",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-26T12:04:08.451922+00:00",
-            "updated_at": "2025-12-26T12:04:08.451922+00:00"
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1594",
@@ -13110,6 +13110,22 @@
             "status": "This month",
             "created_at": "2025-12-29T12:04:19.902966+00:00",
             "updated_at": "2025-12-29T12:04:19.902966+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1598",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Avoid making popups top most",
+            "status": "This month",
+            "created_at": "2025-12-30T12:04:14.361531+00:00",
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1597",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "FBTT: Can't assign time from historical unified view",
+            "status": "This month",
+            "created_at": "2025-12-30T12:04:14.361531+00:00",
+            "updated_at": "2025-12-30T12:04:14.361531+00:00"
         }
     ]
 }

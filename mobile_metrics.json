@@ -13019,9 +13019,9 @@
             "issue_id": "Focus-Bear/Mac-App#1586",
             "repo": "Focus-Bear/Mac-App",
             "title": "App not passing task to the AI",
-            "status": "This month",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-29T12:04:19.902966+00:00"
+            "updated_at": "2026-01-02T12:04:06.345657+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1587",
@@ -13142,6 +13142,22 @@
             "status": "This month",
             "created_at": "2025-12-31T12:04:09.591915+00:00",
             "updated_at": "2025-12-31T12:04:09.591915+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1601",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "blocking schedule not loading",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-02T12:04:06.345657+00:00",
+            "updated_at": "2026-01-02T12:04:06.345657+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1602",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Allow going back to the habit list view",
+            "status": "This month",
+            "created_at": "2026-01-02T12:04:06.345657+00:00",
+            "updated_at": "2026-01-02T12:04:06.345657+00:00"
         }
     ]
 }

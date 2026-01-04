@@ -13158,6 +13158,14 @@
             "status": "This month",
             "created_at": "2026-01-02T12:04:06.345657+00:00",
             "updated_at": "2026-01-02T12:04:06.345657+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1603",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Alex feedback",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-04T12:04:01.992816+00:00",
+            "updated_at": "2026-01-04T12:04:01.992816+00:00"
         }
     ]
 }

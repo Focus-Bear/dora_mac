@@ -13166,6 +13166,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-01-04T12:04:01.992816+00:00",
             "updated_at": "2026-01-04T12:04:01.992816+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1604",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Floating bear tooltip appears on mouseover when popup is closed",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-05T12:04:19.905747+00:00",
+            "updated_at": "2026-01-05T12:04:19.905747+00:00"
         }
     ]
 }

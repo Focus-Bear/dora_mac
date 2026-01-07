@@ -12915,9 +12915,9 @@
             "issue_id": "Focus-Bear/Mac-App#1573",
             "repo": "Focus-Bear/Mac-App",
             "title": "Tasks dropdown isn't helpful - should show recent tasks",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-09T12:04:15.089148+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1575",
@@ -13011,9 +13011,9 @@
             "issue_id": "Focus-Bear/Mac-App#1585",
             "repo": "Focus-Bear/Mac-App",
             "title": "Bear pop up is intrusive and difficult to dismiss, causing frustration during use",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-30T12:04:14.361531+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1586",
@@ -13059,9 +13059,9 @@
             "issue_id": "Focus-Bear/Mac-App#1591",
             "repo": "Focus-Bear/Mac-App",
             "title": "Natural breaks are not being counted accurately",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-22T12:04:09.303467+00:00",
-            "updated_at": "2026-01-06T12:04:18.065011+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1592",
@@ -13147,9 +13147,9 @@
             "issue_id": "Focus-Bear/Mac-App#1601",
             "repo": "Focus-Bear/Mac-App",
             "title": "blocking schedule not loading",
-            "status": "Extra high priority - Next version",
+            "status": "In Progress",
             "created_at": "2026-01-02T12:04:06.345657+00:00",
-            "updated_at": "2026-01-02T12:04:06.345657+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1602",
@@ -13179,17 +13179,33 @@
             "issue_id": "Focus-Bear/Mac-App#1605",
             "repo": "Focus-Bear/Mac-App",
             "title": "Let user set up blocking schedule during onboarding",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-06T12:04:18.065011+00:00",
-            "updated_at": "2026-01-06T12:04:18.065011+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1606",
             "repo": "Focus-Bear/Mac-App",
             "title": "Improve permissions screen text",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-06T12:04:18.065011+00:00",
-            "updated_at": "2026-01-06T12:04:18.065011+00:00"
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1607",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Permission screens texts to be reviewed",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-07T12:04:23.241588+00:00",
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1608",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "unable to interact with the break dialogue",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-07T12:04:23.241588+00:00",
+            "updated_at": "2026-01-07T12:04:23.241588+00:00"
         }
     ]
 }

@@ -36,6 +36,15 @@
             "merged_at": "2023-07-09T03:10:35Z",
             "time_to_merge": 395.78527777777776,
             "release_id": null
+        },
+        {
+            "pr_id": "1610",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "MeharX10",
+            "created_at": "2026-01-08T03:41:24Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -12883,9 +12892,9 @@
             "issue_id": "Focus-Bear/Mac-App#1572",
             "repo": "Focus-Bear/Mac-App",
             "title": "Super Focus session stops blocking after closing the break popup; session remains active but blocking and timer disappear",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+            "updated_at": "2026-01-08T12:04:23.130690+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1574",
@@ -13171,9 +13180,9 @@
             "issue_id": "Focus-Bear/Mac-App#1604",
             "repo": "Focus-Bear/Mac-App",
             "title": "Floating bear tooltip appears on mouseover when popup is closed",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-05T12:04:19.905747+00:00",
-            "updated_at": "2026-01-05T12:04:19.905747+00:00"
+            "updated_at": "2026-01-08T12:04:23.130690+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1605",
@@ -13206,6 +13215,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-01-07T12:04:23.241588+00:00",
             "updated_at": "2026-01-07T12:04:23.241588+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1609",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App gets glitchy when user plugged in external monitor",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-08T12:04:23.130690+00:00",
+            "updated_at": "2026-01-08T12:04:23.130690+00:00"
         }
     ]
 }

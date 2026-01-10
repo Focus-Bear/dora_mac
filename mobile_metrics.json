@@ -12797,9 +12797,9 @@
             "issue_id": "Focus-Bear/Mac-App#1557",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed",
-            "status": "QA Failed",
+            "status": "Ready for QA",
             "created_at": "2025-11-20T12:04:33.523717+00:00",
-            "updated_at": "2026-01-09T12:04:25.203446+00:00"
+            "updated_at": "2026-01-10T12:03:57.361935+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1559",
@@ -12989,9 +12989,9 @@
             "issue_id": "Focus-Bear/Mac-App#1580",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed after I postponed",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-12-12T12:04:15.058879+00:00",
-            "updated_at": "2025-12-23T12:04:12.246586+00:00"
+            "updated_at": "2026-01-10T12:03:57.361935+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1581",
@@ -13232,6 +13232,22 @@
             "status": "Ready for QA",
             "created_at": "2026-01-08T12:04:23.130690+00:00",
             "updated_at": "2026-01-09T12:04:25.203446+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1612",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Current task was lost after returning from break",
+            "status": "This month",
+            "created_at": "2026-01-10T12:03:57.361935+00:00",
+            "updated_at": "2026-01-10T12:03:57.361935+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1613",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "App crashed",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-10T12:03:57.361935+00:00",
+            "updated_at": "2026-01-10T12:03:57.361935+00:00"
         }
     ]
 }

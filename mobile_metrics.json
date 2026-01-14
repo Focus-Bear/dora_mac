@@ -645,9 +645,9 @@
             "issue_id": "Focus-Bear/Mac-App#1175",
             "repo": "Focus-Bear/Mac-App",
             "title": "Customise habits in evening routine shows morning routine",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-14T12:04:11.750972+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1416",
@@ -677,17 +677,17 @@
             "issue_id": "Focus-Bear/Mac-App#1414",
             "repo": "Focus-Bear/Mac-App",
             "title": "Completely Skip Evening Habits not working as intended",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-14T12:04:11.750972+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1412",
             "repo": "Focus-Bear/Mac-App",
             "title": "Crash with v374",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-14T12:04:11.750972+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1391",
@@ -1213,9 +1213,9 @@
             "issue_id": "Focus-Bear/Mac-App#1255",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac app is not sending the app_version to the track_event endpoint",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-12-02T12:04:10.209246+00:00"
+            "updated_at": "2026-01-14T12:04:11.750972+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1287",
@@ -13013,9 +13013,9 @@
             "issue_id": "Focus-Bear/Mac-App#1583",
             "repo": "Focus-Bear/Mac-App",
             "title": "\u201cLooks like you\u2019re on a break\u201d popup keeps appearing even when not on break; dismiss option does not persist",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-23T12:04:12.246586+00:00"
+            "updated_at": "2026-01-14T12:04:11.750972+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1584",

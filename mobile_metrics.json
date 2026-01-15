@@ -173,9 +173,9 @@
             "issue_id": "Focus-Bear/Mac-App#1508",
             "repo": "Focus-Bear/Mac-App",
             "title": "Habit prompts for already completed habits and habit loading failures on Mac",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-11-11T12:04:17.463420+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#838",
@@ -501,9 +501,9 @@
             "issue_id": "Focus-Bear/Mac-App#1450",
             "repo": "Focus-Bear/Mac-App",
             "title": "Unblocking in evening - make it easy to unblock for 30 minutes by default",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1374",
@@ -1045,9 +1045,9 @@
             "issue_id": "Focus-Bear/Mac-App#1367",
             "repo": "Focus-Bear/Mac-App",
             "title": "Simplify menu",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1359",
@@ -1213,9 +1213,9 @@
             "issue_id": "Focus-Bear/Mac-App#1255",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac app is not sending the app_version to the track_event endpoint",
-            "status": "QA in Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2026-01-14T12:04:11.750972+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1287",
@@ -1397,9 +1397,9 @@
             "issue_id": "Focus-Bear/Mac-App#1310",
             "repo": "Focus-Bear/Mac-App",
             "title": "App should prompt for intention again when clicking unblock on super distracting URL",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1321",
@@ -12773,9 +12773,9 @@
             "issue_id": "Focus-Bear/Mac-App#1554",
             "repo": "Focus-Bear/Mac-App",
             "title": "Fix Youtube embed",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-11-15T12:03:47.085130+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1555",
@@ -12837,9 +12837,9 @@
             "issue_id": "Focus-Bear/Mac-App#1563",
             "repo": "Focus-Bear/Mac-App",
             "title": "Start focus mode on mobile doesn't update on Mac",
-            "status": "QA in Progress",
+            "status": "QA Failed",
             "created_at": "2025-11-24T12:04:09.753192+00:00",
-            "updated_at": "2026-01-12T12:04:14.665780+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1564",
@@ -12853,9 +12853,9 @@
             "issue_id": "Focus-Bear/Mac-App#1565",
             "repo": "Focus-Bear/Mac-App",
             "title": "Don't show brain dump after microbreak",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-28T12:04:09.902447+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1558",
@@ -12989,9 +12989,9 @@
             "issue_id": "Focus-Bear/Mac-App#1580",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed after I postponed",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-12T12:04:15.058879+00:00",
-            "updated_at": "2026-01-10T12:03:57.361935+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1581",
@@ -13013,9 +13013,9 @@
             "issue_id": "Focus-Bear/Mac-App#1583",
             "repo": "Focus-Bear/Mac-App",
             "title": "\u201cLooks like you\u2019re on a break\u201d popup keeps appearing even when not on break; dismiss option does not persist",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2026-01-14T12:04:11.750972+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1584",
@@ -13029,9 +13029,9 @@
             "issue_id": "Focus-Bear/Mac-App#1585",
             "repo": "Focus-Bear/Mac-App",
             "title": "Bear pop up is intrusive and difficult to dismiss, causing frustration during use",
-            "status": "QA in Progress",
+            "status": "Ready for QA",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2026-01-09T12:04:25.203446+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1586",
@@ -13053,9 +13053,9 @@
             "issue_id": "Focus-Bear/Mac-App#1588",
             "repo": "Focus-Bear/Mac-App",
             "title": "Apps not being blocked in a focus mode with only allowed apps?",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2025-12-30T12:04:14.361531+00:00"
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1589",
@@ -13256,6 +13256,30 @@
             "status": "This month",
             "created_at": "2026-01-13T12:04:15.430222+00:00",
             "updated_at": "2026-01-13T12:04:15.430222+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2871",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Check status from backend when Mac/Windows send array of tasks",
+            "status": "Needs clarification",
+            "created_at": "2026-01-15T12:04:13.778773+00:00",
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2869",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Devon feedback: time remaining is inaccurate",
+            "status": "Ready for QA",
+            "created_at": "2026-01-15T12:04:13.778773+00:00",
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1616",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Feature request: Add global app whitelist (Always Allowed apps) to prevent essential apps from being blocked",
+            "status": "Low priority",
+            "created_at": "2026-01-15T12:04:13.778773+00:00",
+            "updated_at": "2026-01-15T12:04:13.778773+00:00"
         }
     ]
 }

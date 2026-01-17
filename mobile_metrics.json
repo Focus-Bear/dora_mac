@@ -63,6 +63,42 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "1623",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-17T09:03:41Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1620",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-16T23:52:09Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1619",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-16T23:41:42Z",
+            "merged_at": "2026-01-17T08:20:41Z",
+            "time_to_merge": 8.649722222222222,
+            "release_id": null
+        },
+        {
+            "pr_id": "1618",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-16T23:34:33Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -270,9 +306,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2367",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Support vimeo videos",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2026-01-17T12:03:42.843791+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1485",
@@ -8446,9 +8482,9 @@
             "issue_id": "Focus-Bear/Mac-App#973",
             "repo": "Focus-Bear/Mac-App",
             "title": "Improve payment experience",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-17T12:03:42.843791+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1015",
@@ -13262,9 +13298,9 @@
             "issue_id": "Focus-Bear/Mac-App#1615",
             "repo": "Focus-Bear/Mac-App",
             "title": "Focus alignment score shouldn't show 0% if AI isn't enabled",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2026-01-13T12:04:15.430222+00:00",
-            "updated_at": "2026-01-13T12:04:15.430222+00:00"
+            "updated_at": "2026-01-17T12:03:42.843791+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2871",
@@ -13289,6 +13325,22 @@
             "status": "Low priority",
             "created_at": "2026-01-15T12:04:13.778773+00:00",
             "updated_at": "2026-01-15T12:04:13.778773+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1621",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Feedback on new onboarding",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-17T12:03:42.843791+00:00",
+            "updated_at": "2026-01-17T12:03:42.843791+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1622",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "No expected time value was displayed during habit duration adjustment",
+            "status": "This month",
+            "created_at": "2026-01-17T12:03:42.843791+00:00",
+            "updated_at": "2026-01-17T12:03:42.843791+00:00"
         }
     ]
 }

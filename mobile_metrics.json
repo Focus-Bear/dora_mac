@@ -99,6 +99,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "1631",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "manishjain999",
+            "created_at": "2026-01-17T14:40:13Z",
+            "merged_at": "2026-01-17T15:13:56Z",
+            "time_to_merge": 0.5619444444444445,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13010,9 +13019,9 @@
             "issue_id": "Focus-Bear/Mac-App#1577",
             "repo": "Focus-Bear/Mac-App",
             "title": "In super strict mode prevent changing the focus intention",
-            "status": "This quarter",
+            "status": "Ready for QA",
             "created_at": "2025-12-07T12:03:48.621080+00:00",
-            "updated_at": "2025-12-07T12:03:48.621080+00:00"
+            "updated_at": "2026-01-18T12:03:53.952365+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1578",
@@ -13341,6 +13350,30 @@
             "status": "This month",
             "created_at": "2026-01-17T12:03:42.843791+00:00",
             "updated_at": "2026-01-17T12:03:42.843791+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1632",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Minimise button on Help and Support does not require password",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-18T12:03:53.952365+00:00",
+            "updated_at": "2026-01-18T12:03:53.952365+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1633",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Clicking x in the Wind Down page should have the equivalent of \" I need access\"",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-18T12:03:53.952365+00:00",
+            "updated_at": "2026-01-18T12:03:53.952365+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1634",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "No high priority activities warning.",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-18T12:03:53.952365+00:00",
+            "updated_at": "2026-01-18T12:03:53.952365+00:00"
         }
     ]
 }

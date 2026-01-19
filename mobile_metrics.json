@@ -211,9 +211,9 @@
             "issue_id": "Focus-Bear/mobile-app#3017",
             "repo": "Focus-Bear/mobile-app",
             "title": "Ability to show announcements in the app",
-            "status": "This quarter",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2112",
@@ -859,9 +859,9 @@
             "issue_id": "Focus-Bear/Mac-App#1364",
             "repo": "Focus-Bear/Mac-App",
             "title": "Support Zen Browser",
-            "status": "Next quarter",
+            "status": "This quarter",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1398",
@@ -1619,9 +1619,9 @@
             "issue_id": "Focus-Bear/Mac-App#1302",
             "repo": "Focus-Bear/Mac-App",
             "title": "[REUBEN] super distracting time not accurate",
-            "status": "This quarter",
+            "status": "This month",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1433",
@@ -7923,9 +7923,9 @@
             "issue_id": "Focus-Bear/Mac-App#1047",
             "repo": "Focus-Bear/Mac-App",
             "title": "I force quit the app after starting a habit. When the app restarted all the habits prior to it in the list, was no longer visible in the list of habits for tonight",
-            "status": "Next quarter",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1285",
@@ -7947,9 +7947,9 @@
             "issue_id": "Focus-Bear/Mac-App#1250",
             "repo": "Focus-Bear/Mac-App",
             "title": "Can't reopen to do player during allowed focus mode activity",
-            "status": "Next quarter",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1239",
@@ -11331,9 +11331,9 @@
             "issue_id": "Focus-Bear/Mac-App#1122",
             "repo": "Focus-Bear/Mac-App",
             "title": "Setting for focus music to automatically play when they start a focus mode",
-            "status": "Next quarter",
+            "status": "This quarter",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1161",
@@ -11459,9 +11459,9 @@
             "issue_id": "Focus-Bear/Mac-App#1150",
             "repo": "Focus-Bear/Mac-App",
             "title": "\"This is a demo\" message is not correctly aligned",
-            "status": "Next quarter",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1160",
@@ -12803,9 +12803,9 @@
             "issue_id": "Focus-Bear/backend#1466",
             "repo": "Focus-Bear/backend",
             "title": "Make new endpoint is-url-safe-to-use-v2: async approach communicates back via web sockets",
-            "status": "This month",
+            "status": "Next quarter",
             "created_at": "2025-11-11T12:04:17.463420+00:00",
-            "updated_at": "2025-11-11T12:04:17.463420+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#876",
@@ -12979,9 +12979,9 @@
             "issue_id": "Focus-Bear/Mac-App#1571",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feature request:  Automatically start and run Pomodoro cycles (Super Focus loop) when scheduled blocking starts",
-            "status": "This month",
+            "status": "This quarter",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1573",
@@ -13123,9 +13123,9 @@
             "issue_id": "Focus-Bear/Mac-App#1590",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feature request:  Escalating break reminders based on continuous work duration",
-            "status": "This quarter",
+            "status": "This month",
             "created_at": "2025-12-18T12:04:29.187775+00:00",
-            "updated_at": "2025-12-19T12:04:02.247346+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1591",
@@ -13203,9 +13203,9 @@
             "issue_id": "Focus-Bear/Mac-App#1599",
             "repo": "Focus-Bear/Mac-App",
             "title": "Late No More does infinite audio alerts if computer was asleep",
-            "status": "This month",
+            "status": "In Progress",
             "created_at": "2025-12-31T12:04:09.591915+00:00",
-            "updated_at": "2025-12-31T12:04:09.591915+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1600",
@@ -13275,9 +13275,9 @@
             "issue_id": "Focus-Bear/Mac-App#1608",
             "repo": "Focus-Bear/Mac-App",
             "title": "unable to interact with the break dialogue",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2026-01-07T12:04:23.241588+00:00",
-            "updated_at": "2026-01-07T12:04:23.241588+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1609",
@@ -13291,9 +13291,9 @@
             "issue_id": "Focus-Bear/Mac-App#1612",
             "repo": "Focus-Bear/Mac-App",
             "title": "Current task was lost after returning from break",
-            "status": "This month",
+            "status": "This quarter",
             "created_at": "2026-01-10T12:03:57.361935+00:00",
-            "updated_at": "2026-01-10T12:03:57.361935+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1613",
@@ -13331,9 +13331,9 @@
             "issue_id": "Focus-Bear/Mac-App#1616",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feature request: Add global app whitelist (Always Allowed apps) to prevent essential apps from being blocked",
-            "status": "Low priority",
+            "status": "In Progress",
             "created_at": "2026-01-15T12:04:13.778773+00:00",
-            "updated_at": "2026-01-15T12:04:13.778773+00:00"
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1621",
@@ -13374,6 +13374,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-01-18T12:03:53.952365+00:00",
             "updated_at": "2026-01-18T12:03:53.952365+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1635",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "FOCUS-BEAR-MACOS-GF - App Hanging: App hanging for at least 2000 ms.",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-01-19T12:04:29.042103+00:00",
+            "updated_at": "2026-01-19T12:04:29.042103+00:00"
         }
     ]
 }

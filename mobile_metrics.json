@@ -108,6 +108,24 @@
             "merged_at": "2026-01-17T15:13:56Z",
             "time_to_merge": 0.5619444444444445,
             "release_id": null
+        },
+        {
+            "pr_id": "1637",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "MeharX10",
+            "created_at": "2026-01-20T06:56:13Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1636",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "manishjain999",
+            "created_at": "2026-01-19T14:11:44Z",
+            "merged_at": "2026-01-19T14:12:23Z",
+            "time_to_merge": 0.010833333333333334,
+            "release_id": null
         }
     ],
     "issues": [
@@ -11979,9 +11997,9 @@
             "issue_id": "Focus-Bear/Mac-App#1296",
             "repo": "Focus-Bear/Mac-App",
             "title": "Make \"Sign up with google\" more prominent",
-            "status": "This quarter",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-12-01T12:04:16.562797+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1389",
@@ -13107,9 +13125,9 @@
             "issue_id": "Focus-Bear/Mac-App#1588",
             "repo": "Focus-Bear/Mac-App",
             "title": "Apps not being blocked in a focus mode with only allowed apps?",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2026-01-15T12:04:13.778773+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1589",
@@ -13339,9 +13357,9 @@
             "issue_id": "Focus-Bear/Mac-App#1621",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feedback on new onboarding",
-            "status": "Extra high priority - Next version",
+            "status": "In Progress",
             "created_at": "2026-01-17T12:03:42.843791+00:00",
-            "updated_at": "2026-01-17T12:03:42.843791+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1622",
@@ -13355,33 +13373,33 @@
             "issue_id": "Focus-Bear/Mac-App#1632",
             "repo": "Focus-Bear/Mac-App",
             "title": "Minimise button on Help and Support does not require password",
-            "status": "Extra high priority - Next version",
+            "status": "QA in Progress",
             "created_at": "2026-01-18T12:03:53.952365+00:00",
-            "updated_at": "2026-01-18T12:03:53.952365+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1633",
             "repo": "Focus-Bear/Mac-App",
             "title": "Clicking x in the Wind Down page should have the equivalent of \" I need access\"",
-            "status": "Extra high priority - Next version",
+            "status": "QA in Progress",
             "created_at": "2026-01-18T12:03:53.952365+00:00",
-            "updated_at": "2026-01-18T12:03:53.952365+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1634",
             "repo": "Focus-Bear/Mac-App",
             "title": "No high priority activities warning.",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-18T12:03:53.952365+00:00",
-            "updated_at": "2026-01-18T12:03:53.952365+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1635",
             "repo": "Focus-Bear/Mac-App",
             "title": "FOCUS-BEAR-MACOS-GF - App Hanging: App hanging for at least 2000 ms.",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-19T12:04:29.042103+00:00",
-            "updated_at": "2026-01-19T12:04:29.042103+00:00"
+            "updated_at": "2026-01-20T12:04:29.512840+00:00"
         }
     ]
 }

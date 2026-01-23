@@ -135,6 +135,33 @@
             "merged_at": "2026-01-21T13:47:12Z",
             "time_to_merge": 0.008055555555555555,
             "release_id": null
+        },
+        {
+            "pr_id": "1642",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T05:30:43Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1641",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T05:22:38Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1640",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T01:32:02Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13118,9 +13145,9 @@
             "issue_id": "Focus-Bear/Mac-App#1586",
             "repo": "Focus-Bear/Mac-App",
             "title": "App not passing task to the AI",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2025-12-16T12:04:16.927805+00:00",
-            "updated_at": "2026-01-02T12:04:06.345657+00:00"
+            "updated_at": "2026-01-23T12:04:21.514104+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1587",
@@ -13342,9 +13369,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2871",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Check status from backend when Mac/Windows send array of tasks",
-            "status": "Needs clarification",
+            "status": "Ready for QA",
             "created_at": "2026-01-15T12:04:13.778773+00:00",
-            "updated_at": "2026-01-15T12:04:13.778773+00:00"
+            "updated_at": "2026-01-23T12:04:21.514104+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2869",
@@ -13366,9 +13393,9 @@
             "issue_id": "Focus-Bear/Mac-App#1621",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feedback on new onboarding",
-            "status": "In Progress",
+            "status": "Extra high priority - Next version",
             "created_at": "2026-01-17T12:03:42.843791+00:00",
-            "updated_at": "2026-01-20T12:04:29.512840+00:00"
+            "updated_at": "2026-01-23T12:04:21.514104+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1622",
@@ -13414,9 +13441,9 @@
             "issue_id": "Focus-Bear/Mac-App#1638",
             "repo": "Focus-Bear/Mac-App",
             "title": "Not blocking websites during allowed app habits",
-            "status": "Extra high priority - Next version",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-21T12:04:28.855313+00:00",
-            "updated_at": "2026-01-21T12:04:28.855313+00:00"
+            "updated_at": "2026-01-23T12:04:21.514104+00:00"
         }
     ]
 }

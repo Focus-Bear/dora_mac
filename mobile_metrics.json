@@ -13452,6 +13452,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-01-25T12:04:16.341677+00:00",
             "updated_at": "2026-01-25T12:04:16.341677+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1644",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Should be able to enable/disable AI per blocklist",
+            "status": "This month",
+            "created_at": "2026-01-26T12:04:38.836675+00:00",
+            "updated_at": "2026-01-26T12:04:38.836675+00:00"
         }
     ]
 }

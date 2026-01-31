@@ -8107,9 +8107,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#432",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow unblocking super distracting URL in cuddly bear mode",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-01-31T12:04:18.904231+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1126",

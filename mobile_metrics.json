@@ -207,6 +207,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "1656",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T00:44:33Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1655",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T00:42:41Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13545,6 +13563,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-02-02T12:07:05.976940+00:00",
             "updated_at": "2026-02-02T12:07:05.976940+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1657",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Task is still empty after adding from AI blocking pop up",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-03T12:07:31.949040+00:00",
+            "updated_at": "2026-02-03T12:07:31.949040+00:00"
         }
     ]
 }

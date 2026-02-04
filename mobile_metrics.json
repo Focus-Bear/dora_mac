@@ -13571,6 +13571,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-02-03T12:07:31.949040+00:00",
             "updated_at": "2026-02-03T12:07:31.949040+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1659",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "End of day screen looks bad on 13 inch macbook",
+            "status": "This quarter",
+            "created_at": "2026-02-04T12:07:15.075757+00:00",
+            "updated_at": "2026-02-04T12:07:15.075757+00:00"
         }
     ]
 }

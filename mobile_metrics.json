@@ -13579,6 +13579,14 @@
             "status": "This quarter",
             "created_at": "2026-02-04T12:07:15.075757+00:00",
             "updated_at": "2026-02-04T12:07:15.075757+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1660",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "When I complete a task in the todo player, it doesn't seem to update in Mac",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-05T12:08:21.420221+00:00",
+            "updated_at": "2026-02-05T12:08:21.420221+00:00"
         }
     ]
 }

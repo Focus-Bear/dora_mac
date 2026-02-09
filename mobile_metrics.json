@@ -13025,9 +13025,9 @@
             "issue_id": "Focus-Bear/Mac-App#1564",
             "repo": "Focus-Bear/Mac-App",
             "title": "app locked up after finishing postpone",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-26T12:04:33.050913+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1565",
@@ -13185,9 +13185,9 @@
             "issue_id": "Focus-Bear/Mac-App#1582",
             "repo": "Focus-Bear/Mac-App",
             "title": "Remember postpone status when app is restarted",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2025-12-15T12:04:29.049428+00:00",
-            "updated_at": "2025-12-15T12:04:29.049428+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1583",
@@ -13313,9 +13313,9 @@
             "issue_id": "Focus-Bear/Mac-App#1598",
             "repo": "Focus-Bear/Mac-App",
             "title": "Avoid making popups top most",
-            "status": "This month",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-30T12:04:14.361531+00:00",
-            "updated_at": "2025-12-30T12:04:14.361531+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1597",
@@ -13473,9 +13473,9 @@
             "issue_id": "Focus-Bear/Mac-App#1622",
             "repo": "Focus-Bear/Mac-App",
             "title": "No expected time value was displayed during habit duration adjustment",
-            "status": "This month",
+            "status": "Ready for QA",
             "created_at": "2026-01-17T12:03:42.843791+00:00",
-            "updated_at": "2026-01-17T12:03:42.843791+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1632",
@@ -13537,9 +13537,9 @@
             "issue_id": "Focus-Bear/Mac-App#1645",
             "repo": "Focus-Bear/Mac-App",
             "title": "After completing evening habits the habit page shows label",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-27T12:04:21.990514+00:00",
-            "updated_at": "2026-01-28T12:04:22.311714+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1646",
@@ -13561,17 +13561,17 @@
             "issue_id": "Focus-Bear/Mac-App#1650",
             "repo": "Focus-Bear/Mac-App",
             "title": "Onboarding feedback - Rahul",
-            "status": "Extra high priority - Next version",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-02T12:07:05.976940+00:00",
-            "updated_at": "2026-02-02T12:07:05.976940+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1651",
             "repo": "Focus-Bear/Mac-App",
             "title": "Problem with new AI popup",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-02T12:07:05.976940+00:00",
-            "updated_at": "2026-02-02T12:07:05.976940+00:00"
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1657",
@@ -13612,6 +13612,22 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-02-08T12:04:20.586796+00:00",
             "updated_at": "2026-02-08T12:04:20.586796+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1664",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocking schedule disappears after first run on Mac desktop app",
+            "status": "This month",
+            "created_at": "2026-02-09T12:12:21.724660+00:00",
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1665",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "A lot of button-didnt-blocked-clicked",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-09T12:12:21.724660+00:00",
+            "updated_at": "2026-02-09T12:12:21.724660+00:00"
         }
     ]
 }

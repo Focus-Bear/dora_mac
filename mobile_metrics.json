@@ -243,6 +243,15 @@
             "merged_at": "2026-02-09T14:46:12Z",
             "time_to_merge": 0.0044444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "1671",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-11T03:31:33Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -266,9 +275,9 @@
             "issue_id": "Focus-Bear/Mac-App#1512",
             "repo": "Focus-Bear/Mac-App",
             "title": "Replace \"Do something hard\" popup with the focus game for new users",
-            "status": "Needs clarification",
+            "status": "Low priority",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-11-10T12:04:19.546244+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1516",
@@ -12722,9 +12731,9 @@
             "issue_id": "Focus-Bear/Mac-App#1528",
             "repo": "Focus-Bear/Mac-App",
             "title": "Website blocking not working, all permissions are enabled",
-            "status": "Needs clarification",
+            "status": "Extra high priority - Next version",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-12-01T12:04:16.562797+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1529",
@@ -12770,9 +12779,9 @@
             "issue_id": "Focus-Bear/Mac-App#1533",
             "repo": "Focus-Bear/Mac-App",
             "title": "Current task not being passed to AI",
-            "status": "Ready for QA",
+            "status": "In Progress",
             "created_at": "2025-10-17T12:04:14.990599+00:00",
-            "updated_at": "2025-10-31T12:04:25.368186+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1534",
@@ -13410,9 +13419,9 @@
             "issue_id": "Focus-Bear/Mac-App#1608",
             "repo": "Focus-Bear/Mac-App",
             "title": "unable to interact with the break dialogue",
-            "status": "Needs clarification",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-07T12:04:23.241588+00:00",
-            "updated_at": "2026-01-19T12:04:29.042103+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1609",
@@ -13466,9 +13475,9 @@
             "issue_id": "Focus-Bear/Mac-App#1616",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feature request: Add global app whitelist (Always Allowed apps) to prevent essential apps from being blocked",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2026-01-15T12:04:13.778773+00:00",
-            "updated_at": "2026-01-19T12:04:29.042103+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1621",
@@ -13642,25 +13651,41 @@
             "issue_id": "Focus-Bear/Mac-App#1667",
             "repo": "Focus-Bear/Mac-App",
             "title": "Tab limiter not working anymore",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-10T12:14:10.856853+00:00",
-            "updated_at": "2026-02-10T12:14:10.856853+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1668",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break ratio setting was reset?",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-10T12:14:10.856853+00:00",
-            "updated_at": "2026-02-10T12:14:10.856853+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1669",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-10T12:14:10.856853+00:00",
-            "updated_at": "2026-02-10T12:14:10.856853+00:00"
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1670",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Allow reporting false positive AI decisions",
+            "status": "This month",
+            "created_at": "2026-02-11T12:12:37.515003+00:00",
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#993",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Add button for Deleting account from the app",
+            "status": "This quarter",
+            "created_at": "2026-02-11T12:12:37.515003+00:00",
+            "updated_at": "2026-02-11T12:12:37.515003+00:00"
         }
     ]
 }

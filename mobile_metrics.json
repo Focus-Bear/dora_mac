@@ -252,6 +252,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "1678",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-12T07:07:54Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1675",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-12T03:54:26Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "1672",
+            "repo": "Focus-Bear/Mac-App",
+            "author": "manishjain999",
+            "created_at": "2026-02-11T14:05:29Z",
+            "merged_at": "2026-02-11T14:05:42Z",
+            "time_to_merge": 0.003611111111111111,
+            "release_id": null
         }
     ],
     "issues": [
@@ -6531,9 +6558,9 @@
             "issue_id": "Focus-Bear/Mac-App#637",
             "repo": "Focus-Bear/Mac-App",
             "title": "Support free mode - no backend sync",
-            "status": "Lower Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#462",
@@ -10963,9 +10990,9 @@
             "issue_id": "Focus-Bear/Mac-App#936",
             "repo": "Focus-Bear/Mac-App",
             "title": "App shows 16hrs of non stop focus while I was sleeping \ud83d\ude05",
-            "status": "Blocked",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#975",
@@ -12979,17 +13006,17 @@
             "issue_id": "Focus-Bear/Mac-App#1555",
             "repo": "Focus-Bear/Mac-App",
             "title": "Don't show the floating bear if user opens the menu",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-17T12:04:17.631118+00:00",
-            "updated_at": "2025-11-21T12:04:00.053547+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1556",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break confirmation pop-up stuck in infinite loop; force reboot required to exit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-20T12:04:33.523717+00:00",
-            "updated_at": "2025-11-21T12:04:00.053547+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1557",
@@ -13155,9 +13182,9 @@
             "issue_id": "Focus-Bear/Mac-App#1576",
             "repo": "Focus-Bear/Mac-App",
             "title": "Let user enter a task quickly if none is set",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-06T12:03:48.888506+00:00",
-            "updated_at": "2025-12-30T12:04:14.361531+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1577",
@@ -13395,9 +13422,9 @@
             "issue_id": "Focus-Bear/Mac-App#1605",
             "repo": "Focus-Bear/Mac-App",
             "title": "Let user set up blocking schedule during onboarding",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2026-01-06T12:04:18.065011+00:00",
-            "updated_at": "2026-01-07T12:04:23.241588+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1606",
@@ -13483,9 +13510,9 @@
             "issue_id": "Focus-Bear/Mac-App#1621",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feedback on new onboarding",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-17T12:03:42.843791+00:00",
-            "updated_at": "2026-02-02T12:07:05.976940+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1622",
@@ -13627,9 +13654,9 @@
             "issue_id": "Focus-Bear/Mac-App#1663",
             "repo": "Focus-Bear/Mac-App",
             "title": "V454 crashes when I click start focus session",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2026-02-08T12:04:20.586796+00:00",
-            "updated_at": "2026-02-10T12:14:10.856853+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1664",
@@ -13659,17 +13686,17 @@
             "issue_id": "Focus-Bear/Mac-App#1668",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break ratio setting was reset?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-10T12:14:10.856853+00:00",
-            "updated_at": "2026-02-11T12:12:37.515003+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1669",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2026-02-10T12:14:10.856853+00:00",
-            "updated_at": "2026-02-11T12:12:37.515003+00:00"
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1670",
@@ -13686,6 +13713,38 @@
             "status": "This quarter",
             "created_at": "2026-02-11T12:12:37.515003+00:00",
             "updated_at": "2026-02-11T12:12:37.515003+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1673",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Mac app passing completed tasks to is-url-safe-to-use",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-12T12:10:33.119710+00:00",
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1674",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Talking clock idea",
+            "status": "In Progress",
+            "created_at": "2026-02-12T12:10:33.119710+00:00",
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1676",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Debug tab inside Help",
+            "status": "In Progress",
+            "created_at": "2026-02-12T12:10:33.119710+00:00",
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1677",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Late No More not refreshing calendar list?",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-12T12:10:33.119710+00:00",
+            "updated_at": "2026-02-12T12:10:33.119710+00:00"
         }
     ]
 }

@@ -431,9 +431,9 @@
             "issue_id": "Focus-Bear/Mac-App#1506",
             "repo": "Focus-Bear/Mac-App",
             "title": "The habit screen is blank",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-15T12:04:25.822787+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1505",
@@ -12879,9 +12879,9 @@
             "issue_id": "Focus-Bear/Mac-App#1541",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule uses allow list + AI instead of blocking",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-23T12:04:28.732739+00:00",
-            "updated_at": "2025-10-30T12:04:30.900779+00:00"
+            "updated_at": "2026-02-15T12:04:25.822787+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1542",
@@ -12951,9 +12951,9 @@
             "issue_id": "Focus-Bear/Mac-App#1549",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule not activated",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-03T12:04:19.765163+00:00",
-            "updated_at": "2025-11-04T12:04:27.727851+00:00"
+            "updated_at": "2026-02-15T12:04:25.822787+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1550",

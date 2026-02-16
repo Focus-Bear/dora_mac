@@ -527,9 +527,9 @@
             "issue_id": "Focus-Bear/Mac-App#1483",
             "repo": "Focus-Bear/Mac-App",
             "title": "new UI went full screen again",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-16T12:09:25.867793+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1356",
@@ -583,9 +583,9 @@
             "issue_id": "Focus-Bear/Mac-App#1462",
             "repo": "Focus-Bear/Mac-App",
             "title": "Custom brain dump shouldn't allow blocked URLs",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-16T12:09:25.867793+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1428",
@@ -711,9 +711,9 @@
             "issue_id": "Focus-Bear/Mac-App#1454",
             "repo": "Focus-Bear/Mac-App",
             "title": "Joseph issue: App blocks everything",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-16T12:09:25.867793+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1453",
@@ -847,9 +847,9 @@
             "issue_id": "Focus-Bear/Mac-App#1424",
             "repo": "Focus-Bear/Mac-App",
             "title": "App Crashes When Selecting \u201cSign In with Email\u201d",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2025-10-13T00:41:35.062288+00:00"
+            "updated_at": "2026-02-16T12:09:25.867793+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1423",
@@ -12783,9 +12783,9 @@
             "issue_id": "Focus-Bear/Mac-App#1530",
             "repo": "Focus-Bear/Mac-App",
             "title": "Pop up keeps appearing and will not go away - \u2018Need a break\u2019",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-10-15T12:04:37.375128+00:00",
-            "updated_at": "2025-11-13T12:04:17.723866+00:00"
+            "updated_at": "2026-02-16T12:09:25.867793+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1531",

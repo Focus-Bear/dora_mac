@@ -431,9 +431,9 @@
             "issue_id": "Focus-Bear/Mac-App#1506",
             "repo": "Focus-Bear/Mac-App",
             "title": "The habit screen is blank",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2026-02-15T12:04:25.822787+00:00"
+            "updated_at": "2026-02-17T12:09:10.870234+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1505",
@@ -527,9 +527,9 @@
             "issue_id": "Focus-Bear/Mac-App#1483",
             "repo": "Focus-Bear/Mac-App",
             "title": "new UI went full screen again",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2026-02-16T12:09:25.867793+00:00"
+            "updated_at": "2026-02-17T12:09:10.870234+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1356",
@@ -847,9 +847,9 @@
             "issue_id": "Focus-Bear/Mac-App#1424",
             "repo": "Focus-Bear/Mac-App",
             "title": "App Crashes When Selecting \u201cSign In with Email\u201d",
-            "status": "QA in Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:41:35.062288+00:00",
-            "updated_at": "2026-02-16T12:09:25.867793+00:00"
+            "updated_at": "2026-02-17T12:09:10.870234+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1423",
@@ -13770,6 +13770,14 @@
             "status": "Extra high priority - Next version",
             "created_at": "2026-02-13T12:06:58.753574+00:00",
             "updated_at": "2026-02-13T12:06:58.753574+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1682",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "AI popup doesn't show useful list of tasks",
+            "status": "This month",
+            "created_at": "2026-02-17T12:09:10.870234+00:00",
+            "updated_at": "2026-02-17T12:09:10.870234+00:00"
         }
     ]
 }

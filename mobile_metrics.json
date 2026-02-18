@@ -13607,9 +13607,9 @@
             "issue_id": "Focus-Bear/Mac-App#1649",
             "repo": "Focus-Bear/Mac-App",
             "title": "Onboarding improvements",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-01-30T12:06:12.807999+00:00",
-            "updated_at": "2026-01-30T12:06:12.807999+00:00"
+            "updated_at": "2026-02-18T12:09:24.132564+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1650",
@@ -13623,9 +13623,9 @@
             "issue_id": "Focus-Bear/Mac-App#1651",
             "repo": "Focus-Bear/Mac-App",
             "title": "Problem with new AI popup",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-02T12:07:05.976940+00:00",
-            "updated_at": "2026-02-10T12:14:10.856853+00:00"
+            "updated_at": "2026-02-18T12:09:24.132564+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1657",
@@ -13727,9 +13727,9 @@
             "issue_id": "Focus-Bear/Mac-App#1673",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac app passing completed tasks to is-url-safe-to-use",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-12T12:10:33.119710+00:00",
-            "updated_at": "2026-02-12T12:10:33.119710+00:00"
+            "updated_at": "2026-02-18T12:09:24.132564+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1674",
@@ -13767,9 +13767,9 @@
             "issue_id": "Focus-Bear/Mac-App#1681",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break prompts not triggering",
-            "status": "Extra high priority - Next version",
+            "status": "Needs clarification",
             "created_at": "2026-02-13T12:06:58.753574+00:00",
-            "updated_at": "2026-02-13T12:06:58.753574+00:00"
+            "updated_at": "2026-02-18T12:09:24.132564+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1682",

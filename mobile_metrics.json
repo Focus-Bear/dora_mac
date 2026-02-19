@@ -12727,9 +12727,9 @@
             "issue_id": "Focus-Bear/Mac-App#1523",
             "repo": "Focus-Bear/Mac-App",
             "title": "Report problem with screenshots needs to allow selecting files",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-14T12:04:29.169394+00:00",
-            "updated_at": "2025-10-20T12:04:12.077125+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1524",
@@ -12895,9 +12895,9 @@
             "issue_id": "Focus-Bear/Mac-App#1543",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule shows xxsocialmedia",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-27T12:04:19.292251+00:00",
-            "updated_at": "2025-10-30T12:04:30.900779+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1544",
@@ -12919,9 +12919,9 @@
             "issue_id": "Focus-Bear/Mac-App#1546",
             "repo": "Focus-Bear/Mac-App",
             "title": "App is prompting for every website",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-28T12:04:24.811339+00:00",
-            "updated_at": "2025-10-30T12:04:30.900779+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#860",
@@ -12935,9 +12935,9 @@
             "issue_id": "Focus-Bear/Mac-App#1547",
             "repo": "Focus-Bear/Mac-App",
             "title": "App blocked an allowed app",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-31T12:04:25.368186+00:00",
-            "updated_at": "2025-11-28T12:04:09.902447+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1548",
@@ -13055,9 +13055,9 @@
             "issue_id": "Focus-Bear/Mac-App#1561",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking not working on Firefox - permissions enabled",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-24T12:04:09.753192+00:00",
-            "updated_at": "2025-12-01T12:04:16.562797+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1562",
@@ -13143,9 +13143,9 @@
             "issue_id": "Focus-Bear/Mac-App#1574",
             "repo": "Focus-Bear/Mac-App",
             "title": "Floating bear shouldn't show when you close the bigger bear with focus alignment score",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-05T12:04:05.350689+00:00"
+            "updated_at": "2026-02-19T12:10:08.422680+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1568",

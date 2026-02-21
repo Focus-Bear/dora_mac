@@ -13783,9 +13783,25 @@
             "issue_id": "Focus-Bear/Mac-App#1683",
             "repo": "Focus-Bear/Mac-App",
             "title": "Support for Chrome Beta on Mac",
-            "status": "This month",
+            "status": "In Progress",
             "created_at": "2026-02-20T12:07:27.611218+00:00",
-            "updated_at": "2026-02-20T12:07:27.611218+00:00"
+            "updated_at": "2026-02-21T12:04:21.904318+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1002",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Remove silent fallbacks for startup/shutdown/cutoff time and prompt when not set",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-21T12:04:21.904318+00:00",
+            "updated_at": "2026-02-21T12:04:21.904318+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1684",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Blocking schedule resets after app or computer restart",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-21T12:04:21.904318+00:00",
+            "updated_at": "2026-02-21T12:04:21.904318+00:00"
         }
     ]
 }

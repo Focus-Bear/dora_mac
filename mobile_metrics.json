@@ -13175,9 +13175,9 @@
             "issue_id": "Focus-Bear/Mac-App#1575",
             "repo": "Focus-Bear/Mac-App",
             "title": "App crashed",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-12-05T12:04:05.350689+00:00",
-            "updated_at": "2025-12-06T12:03:48.888506+00:00"
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1570",
@@ -13399,9 +13399,9 @@
             "issue_id": "Focus-Bear/Mac-App#1601",
             "repo": "Focus-Bear/Mac-App",
             "title": "blocking schedule not loading",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2026-01-02T12:04:06.345657+00:00",
-            "updated_at": "2026-01-07T12:04:23.241588+00:00"
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1602",
@@ -13415,9 +13415,9 @@
             "issue_id": "Focus-Bear/Mac-App#1603",
             "repo": "Focus-Bear/Mac-App",
             "title": "Alex feedback",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2026-01-04T12:04:01.992816+00:00",
-            "updated_at": "2026-01-06T12:04:18.065011+00:00"
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1604",
@@ -13647,9 +13647,9 @@
             "issue_id": "Focus-Bear/Mac-App#1660",
             "repo": "Focus-Bear/Mac-App",
             "title": "When I complete a task in the todo player, it doesn't seem to update in Mac",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-05T12:08:21.420221+00:00",
-            "updated_at": "2026-02-05T12:08:21.420221+00:00"
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1662",
@@ -13799,9 +13799,33 @@
             "issue_id": "Focus-Bear/Mac-App#1684",
             "repo": "Focus-Bear/Mac-App",
             "title": "Blocking schedule resets after app or computer restart",
-            "status": "Extra high priority - Next version",
+            "status": "Ready for QA",
             "created_at": "2026-02-21T12:04:21.904318+00:00",
-            "updated_at": "2026-02-21T12:04:21.904318+00:00"
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1685",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Action button for habits is sometimes not responsive on the first click",
+            "status": "This month",
+            "created_at": "2026-02-23T12:09:39.055411+00:00",
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#987",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Blocking schedules created on Windows are deleted after being edited on mobile",
+            "status": "Extra high priority - Next version",
+            "created_at": "2026-02-23T12:09:39.055411+00:00",
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#964",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App provides no feedback when actions are blocked (starting a different focus session during strict blocking)",
+            "status": "Ready for QA",
+            "created_at": "2026-02-23T12:09:39.055411+00:00",
+            "updated_at": "2026-02-23T12:09:39.055411+00:00"
         }
     ]
 }
